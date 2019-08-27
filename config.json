@@ -1,0 +1,18 @@
+{
+  "telegram": {
+    "token": "623043841:AAF944GARETMr1LFOcu4FMGPjpbF1WPGGSs",
+    "proxy": {
+      "url": "socks5://cz1.tgeeks.ru:443",
+      "auth": {
+        "username": "user297371918",
+        "password": "kWeCPEuBqUaJevuN"
+      }
+    }
+  },
+  "password": "nirma",
+  "timeouts": {
+    "detection": 10,
+    "decision": 60
+  },
+  "alert_threshold": 0.6
+}
